@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  width: 100svw;
+  height: 9vh;
+  background-color: #00acee;
+  align-items: center;
+  padding-left: 5rem;
+}
+
+.container p {
+  margin-left: 1rem;
+  font-size: 3rem;
+  font-weight: 400;
+}
+.container img {
+  width: 5rem;
+}
+
+/* .tabs {
+  background-color: rgb(221, 219, 219);
+  color: black;
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+  font-size: 2rem;
+  width: 100svw;
+  height: 6vh;
+}
+
+.tabs p {
+  font-weight: 500;
+  margin-left: 5rem;
+} */
